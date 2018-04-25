@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Arduino Thermometer</string>
+    <string name="none_paired">None paired</string>
+</resources>
